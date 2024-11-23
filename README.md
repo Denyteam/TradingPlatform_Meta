@@ -1,12 +1,11 @@
 ## Getting Started
 
-You must run on the Command Prompt or Terminal(Ubuntu or MacOS), not vs-code terminal
-this project doesn't work well when running on the Vs-code terminal
+Run on the Command Prompt or Terminal(Ubuntu or MacOS),
+Not vs-code terminal
 
-First, run the development server:
-Node version: over 18.19.0, 20.16.0 is better
+Node version: over 18
 ```bash
-npm i
+npm install
 npm run dev
 
 ```
